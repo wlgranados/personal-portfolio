@@ -10,7 +10,7 @@ const LineOfWork = props => {
           <Col lg={12} md={12} sm={12} xs={12}>
             <div className="prt_heading_wrapper">
               <div className="prt_heading">
-                <h1>What I do</h1>
+                <h1>What ya big boi does</h1>
                 <p>take a look</p>
               </div>
             </div>
