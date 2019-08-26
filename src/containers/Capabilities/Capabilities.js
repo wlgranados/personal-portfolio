@@ -20,24 +20,24 @@ class Capabilities extends Component {
   state = {
     abilities: [
       {
-        language: "Python",
+        language: "Jokloklia",
         percentage: 90,
         href:
           "https://github.com/msanvarov?utf8=%E2%9C%93&tab=repositories&q=&type=&language=python"
       },
       {
-        language: "JS",
+        language: "Ubrungru",
         percentage: 95,
         href:
           "https://github.com/msanvarov?utf8=%E2%9C%93&tab=repositories&q=&type=&language=javascript"
       },
       {
-        language: "C/C++",
+        language: "NessJS",
         percentage: 80,
         href: "https://github.com/msanvarov?tab=repositories"
       },
       {
-        language: "Java",
+        language: "🅱️eact",
         percentage: 85,
         href:
           "https://github.com/msanvarov?utf8=%E2%9C%93&tab=repositories&q=&type=&language=java"
@@ -46,32 +46,32 @@ class Capabilities extends Component {
     accolades: [
       {
         len: 2,
-        description: "Enterprise Tools Built"
+        description: "Enterprise Yotes Built"
       },
       {
         len: 4,
-        description: "Hackathons Won"
+        description: "Hackathons Yeeted on"
       }
     ],
     lineOfWork: [
       {
-        title: "Web Design",
+        title: "Spicy Web Design",
         description: "Prototyping with XD and Mobirise",
         img: WebDesign
       },
       {
-        title: "Full Stack Development",
+        title: "Full Salim Development",
         description: "MERN, FR, FV, MEVN",
         img: FullStackI
       },
       {
         title: "Software Development",
-        description: "Electron, Kivy, C/C++",
+        description: "Jokloklia, Jokloklia, Jokloklia",
         img: SoftwareI
       },
       {
-        title: "App Development",
-        description: "Android and React Native",
+        title: "Ubrungru Development",
+        description: "Ubrungru and Logloglia",
         img: AppI
       }
     ],
