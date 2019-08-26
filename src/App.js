@@ -139,7 +139,7 @@ class App extends Component {
               style={{ height: window.innerHeight }}
             >
               <h1 className="d-flex justify-content-center">
-                I'm Salim Anvarov
+                I am Ubrungru Engineer
               </h1>
               <div className="prt_logo_wrapper">
                 <a href="#main">
